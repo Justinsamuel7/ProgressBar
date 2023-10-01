@@ -1,0 +1,15 @@
+.progressBar{
+  width:80vw;
+  height:1rem;
+  background-color:grey;
+  border-radius:0.5rem;
+}
+
+#progress{
+  width:0%;
+  height:100%;
+  background-color:blue;
+  border-radius:0.5rem;
+  border-bottom:2px solid navy;
+  box-sizing:border-box;
+}
